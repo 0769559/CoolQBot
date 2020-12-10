@@ -14,6 +14,8 @@ nonebot-plugin-sentry = "^0.1.1"
 nonebot2 = "^2.0.0-alpha.7"
 python = "~3.8"
 python-dateutil = "^2.8.1"
+sqlalchemy = "^1.4.0b1"
+asyncpg = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
 nonebot-plugin-docs = "^2.0.0-alpha.7"
